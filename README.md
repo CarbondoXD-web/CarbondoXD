@@ -2,8 +2,9 @@
 Hello there~ 
 
 I’m a complete beginner with more than 5 years of coding experience
-*AKA: I started writing codes 5 years ago but still acting like a newbie!* 🥺
-
+```
+*AKA: I started writing codes 5 years ago but still acting like a newbie* 🥺
+```
 Terrible Python & C# & C++ User
 
 But Math is my true love
